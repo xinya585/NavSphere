@@ -184,6 +184,14 @@
           "description": "",
           "icon": "/assets/img_1754142638455.png",
           "enabled": true
+        },
+        {
+          "id": "1754153807906",
+          "title": "HD Dolby",
+          "href": "https://www.hddolby.com",
+          "description": "",
+          "icon": "/assets/img_1754153813213.png",
+          "enabled": true
         }
       ],
       "subCategories": []
