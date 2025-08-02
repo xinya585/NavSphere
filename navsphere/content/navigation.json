@@ -160,6 +160,14 @@
           "description": "",
           "icon": "/assets/img_1754142612487.png",
           "enabled": true
+        },
+        {
+          "id": "1754142633028",
+          "title": "SSD",
+          "href": "https://springsunday.net/",
+          "description": "",
+          "icon": "/assets/img_1754142638455.png",
+          "enabled": true
         }
       ],
       "subCategories": []
