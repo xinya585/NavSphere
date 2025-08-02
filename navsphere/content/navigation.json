@@ -52,6 +52,14 @@
           "description": "提供在线图标链接，用于个人NAS设备显示使用，禁止用于商业用途。",
           "icon": "/assets/img_1754140754616.png",
           "enabled": true
+        },
+        {
+          "id": "1754140936696",
+          "title": "FileBrowser",
+          "href": "http://scy.ink:8090",
+          "description": "文件浏览器在指定目录内提供了一个文件管理界面，可用于上传、删除、预览和编辑您的文件。它是一种创建您自己的云类型的软件，您只需将其安装在您的服务器上，将其定向到路径并通过漂亮的 Web 界面访问您的文件。",
+          "icon": "/assets/img_1754140991266.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
