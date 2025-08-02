@@ -190,9 +190,9 @@
     },
     {
       "id": "1754143530580",
-      "title": "工具收藏夹",
+      "title": "工具站",
       "icon": "LayoutList",
-      "description": "工具类网站",
+      "description": "",
       "enabled": true,
       "items": [
         {
