@@ -2,8 +2,8 @@
   "navigationItems": [
     {
       "id": "1",
-      "title": "常用推荐",
-      "icon": "Star",
+      "title": "UNRAID",
+      "icon": "LayoutList",
       "items": [
         {
           "id": "1_2",
@@ -79,7 +79,7 @@
         }
       ],
       "subCategories": [],
-      "description": "",
+      "description": "我的NAS",
       "enabled": true
     },
     {
