@@ -84,6 +84,14 @@
           "description": "它旨在成为所有其他 bittorrent 客户端的良好替代品 在那里。qBittorrent 快速、稳定并提供 unicode 支持以及许多功能。",
           "icon": "/assets/img_1754141491034.png",
           "enabled": true
+        },
+        {
+          "id": "1754160323498",
+          "title": "Portainer-BE",
+          "href": "http://scy.ink:9000",
+          "description": "Portainer 社区版是一个轻量级的容器化应用程序服务交付平台，可用于管理 Docker、Swarm、Kubernetes 和 ACI 环境。它的设计与部署和使用一样简单。该应用程序允许您通过“智能”GUI 和/或广泛的 API 管理所有业务流程协调程序资源（容器、映像、卷、网络等）。\n\nPortainer 由一个可以在任何集群上运行的容器组成。它可以部署为 Linux 容器或 Windows 本机容器。\nPortainer 商业版建立在开源基础上，包括一系列特定于业务用户需求的高级特性和功能（如 RBAC 和支持）。",
+          "icon": "/assets/img_1754160376615.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
