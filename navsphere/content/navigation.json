@@ -17,7 +17,7 @@
           "id": "1_1",
           "title": "MoviePilot",
           "href": "http://scy.ink:33000",
-          "description": "Google分析（Google Analytics）是一个由Google所提供的网站流量统计服务。",
+          "description": "MoviePilot影视订阅工具",
           "icon": "/assets/img_1754133933534.png",
           "enabled": true
         },
