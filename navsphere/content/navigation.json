@@ -68,6 +68,14 @@
           "description": "OpenWrt 提供了一个完整的具有包管理的可写文件系统。",
           "icon": "/assets/img_1754141152786.png",
           "enabled": true
+        },
+        {
+          "id": "1754141264617",
+          "title": "OpenClash",
+          "href": "http://scy.ink:9090/ui/dashboard/#/proxies?host=scy.ink&port=9090&secret=00000000",
+          "description": "可运行在 OpenWrt 上的 Clash 客户端，兼容 Shadowsocks、ShadowsocksR、Vmess、Trojan、Snell 等协议，根据灵活的规则配置实现策略代理。",
+          "icon": "/assets/img_1754141326172.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
