@@ -98,6 +98,14 @@
       "enabled": true,
       "items": [
         {
+          "id": "1754142758205",
+          "title": "MTeam",
+          "href": "https://next.m-team.cc/",
+          "description": "",
+          "icon": "/assets/img_1754142781462.png",
+          "enabled": true
+        },
+        {
           "id": "1754134262027",
           "title": "Audiences",
           "href": "https://audiences.me/",
@@ -175,14 +183,6 @@
           "href": "https://ptchdbits.co/",
           "description": "",
           "icon": "/assets/img_1754145716265.png",
-          "enabled": true
-        },
-        {
-          "id": "1754142758205",
-          "title": "MTeam",
-          "href": "https://next.m-team.cc/",
-          "description": "",
-          "icon": "/assets/img_1754142781462.png",
           "enabled": true
         }
       ],
