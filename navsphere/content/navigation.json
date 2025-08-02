@@ -76,6 +76,14 @@
           "description": "可运行在 OpenWrt 上的 Clash 客户端，兼容 Shadowsocks、ShadowsocksR、Vmess、Trojan、Snell 等协议，根据灵活的规则配置实现策略代理。",
           "icon": "/assets/img_1754141326172.png",
           "enabled": true
+        },
+        {
+          "id": "1754141467475",
+          "title": "qBittorrent",
+          "href": "http://scy.ink:3331",
+          "description": "它旨在成为所有其他 bittorrent 客户端的良好替代品 在那里。qBittorrent 快速、稳定并提供 unicode 支持以及许多功能。",
+          "icon": "/assets/img_1754141491034.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
