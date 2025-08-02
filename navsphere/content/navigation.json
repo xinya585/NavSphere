@@ -136,6 +136,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1754142402451",
+          "title": "PTer",
+          "href": "https://pterclub.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
