@@ -152,6 +152,14 @@
           "description": "",
           "icon": "/assets/img_1754142587373.png",
           "enabled": true
+        },
+        {
+          "id": "1754142606802",
+          "title": "TTG",
+          "href": "https://totheglory.im/",
+          "description": "",
+          "icon": "/assets/img_1754142612487.png",
+          "enabled": true
         }
       ],
       "subCategories": []
