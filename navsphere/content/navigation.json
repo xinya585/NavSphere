@@ -114,6 +114,14 @@
           "enabled": true
         },
         {
+          "id": "1754142659215",
+          "title": "CHDBits",
+          "href": "https://ptchdbits.co/",
+          "description": "",
+          "icon": "/assets/img_1754145716265.png",
+          "enabled": true
+        },
+        {
           "id": "1754134262027",
           "title": "Audiences",
           "href": "https://audiences.me/",
@@ -175,14 +183,6 @@
           "href": "https://springsunday.net/",
           "description": "",
           "icon": "/assets/img_1754142638455.png",
-          "enabled": true
-        },
-        {
-          "id": "1754142659215",
-          "title": "CHDBits",
-          "href": "https://ptchdbits.co/",
-          "description": "",
-          "icon": "/assets/img_1754145716265.png",
           "enabled": true
         }
       ],
