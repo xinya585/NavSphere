@@ -200,6 +200,14 @@
           "description": "",
           "icon": "/assets/img_1754153854768.png",
           "enabled": true
+        },
+        {
+          "id": "1754153876889",
+          "title": "QingWa",
+          "href": "https://qingwapt.com",
+          "description": "",
+          "icon": "/assets/img_1754153886517.png",
+          "enabled": true
         }
       ],
       "subCategories": []
