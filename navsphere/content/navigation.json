@@ -81,6 +81,15 @@
       "subCategories": [],
       "description": "我的NAS",
       "enabled": true
+    },
+    {
+      "id": "1754134255538",
+      "title": "PT收藏夹",
+      "icon": "LayoutList",
+      "description": "PT站点快速访问",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
