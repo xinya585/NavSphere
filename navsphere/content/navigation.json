@@ -226,6 +226,14 @@
           "description": "为开发人员提供方便的在线工具集合，具有出色的用户体验。",
           "icon": "/assets/img_1754145262770.png",
           "enabled": true
+        },
+        {
+          "id": "1754145354207",
+          "title": "NCloud",
+          "href": "https://xn--cloud-cl5i.net/#/register?code=x4OqfjdS",
+          "description": "NCloud 1T流量，10元每月。",
+          "icon": "/assets/img_1754145419452.png",
+          "enabled": true
         }
       ],
       "subCategories": []
