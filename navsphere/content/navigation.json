@@ -41,7 +41,7 @@
           "id": "site_1754137567638_j9x13sn9d",
           "title": "CookieCloud",
           "href": "http://scy.ink:8088",
-          "description": "Cookie同步工具",
+          "description": "CookieCloud是一个和自架服务器同步浏览器Cookie和LocalStorage的小工具，支持端对端加密，可设定同步时间间隔。",
           "icon": "/assets/img_1754137546589.png",
           "enabled": true
         },
