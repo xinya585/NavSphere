@@ -144,6 +144,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1754142575236",
+          "title": "PT@KEEPFRDS",
+          "href": "https://pt.keepfrds.com/",
+          "description": "",
+          "icon": "/assets/img_1754142587373.png",
+          "enabled": true
         }
       ],
       "subCategories": []
