@@ -120,6 +120,14 @@
           "description": "官方Telegram群组\nhttps://t.me/+9GytY2XsWFBiMjdl",
           "icon": "/assets/img_1754134479305.png",
           "enabled": true
+        },
+        {
+          "id": "1754142027555",
+          "title": "ourbits",
+          "href": "https://ourbits.club/",
+          "description": "",
+          "icon": "/assets/img_1754142041768.png",
+          "enabled": true
         }
       ],
       "subCategories": []
