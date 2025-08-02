@@ -210,6 +210,14 @@
           "description": "Docker加速镜像站",
           "icon": "/assets/img_1754143800220.png",
           "enabled": true
+        },
+        {
+          "id": "1754144144388",
+          "title": "Vercel",
+          "href": "https://vercel.com/",
+          "description": "最好用的网站托管服务。",
+          "icon": "/assets/img_1754144168371.png",
+          "enabled": true
         }
       ],
       "subCategories": []
