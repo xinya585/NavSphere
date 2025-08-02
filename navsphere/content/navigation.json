@@ -187,6 +187,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1754143530580",
+      "title": "工具收藏夹",
+      "icon": "FolderKanban",
+      "description": "工具类网站",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
