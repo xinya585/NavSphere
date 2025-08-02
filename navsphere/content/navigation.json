@@ -25,7 +25,7 @@
           "id": "1_3",
           "title": "EmbyServer",
           "href": "http://scy.ink:8096",
-          "description": "Emby媒体播放器",
+          "description": "Emby Server 是一个个人媒体服务器，几乎在所有设备上都有应用程序。\n\n它具有基于 REST 的 API 和内置文档，以促进客户端开发。我们还为 API 提供了客户端库，以实现快速开发。",
           "icon": "/assets/img_1754134026697.png",
           "enabled": true
         },
