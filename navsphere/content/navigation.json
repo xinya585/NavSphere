@@ -44,6 +44,14 @@
           "description": "Cookie同步工具",
           "icon": "/assets/img_1754137546589.png",
           "enabled": true
+        },
+        {
+          "id": "1754140730308",
+          "title": "My icon",
+          "href": "http://scy.ink:3300",
+          "description": "PNG图标图床",
+          "icon": "/assets/img_1754140754616.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
