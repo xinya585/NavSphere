@@ -88,7 +88,16 @@
       "icon": "LayoutList",
       "description": "PT站点快速访问",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1754134262027",
+          "title": "观众",
+          "href": "https://audiences.me/",
+          "description": "webdl",
+          "icon": "",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
