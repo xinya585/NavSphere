@@ -202,6 +202,14 @@
           "description": "GitHub 文件加速",
           "icon": "/assets/img_1754143698776.png",
           "enabled": true
+        },
+        {
+          "id": "1754143769332",
+          "title": "Docker",
+          "href": "https://hub.scy.ink/",
+          "description": "Docker加速镜像站",
+          "icon": "/assets/img_1754143800220.png",
+          "enabled": true
         }
       ],
       "subCategories": []
