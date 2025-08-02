@@ -224,6 +224,14 @@
           "description": "",
           "icon": "/assets/img_1754153954554.png",
           "enabled": true
+        },
+        {
+          "id": "1754153970671",
+          "title": "PTHome",
+          "href": "https://www.pthome.net",
+          "description": "",
+          "icon": "/assets/img_1754153980924.png",
+          "enabled": true
         }
       ],
       "subCategories": []
