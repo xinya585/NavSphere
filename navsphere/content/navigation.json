@@ -7,10 +7,10 @@
       "items": [
         {
           "id": "1_2",
-          "title": "Vercel",
-          "href": "https://vercel.com/",
-          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
-          "icon": "/assets/images/logos/vercel.png",
+          "title": "UNRAID",
+          "href": "https://scy.ink:9999",
+          "description": "适合个人/小微企业搭建私有云存储、虚拟化服务器或流媒体服务器，尤其推荐对存储扩展性和硬件兼容性有高要求的用户。",
+          "icon": "/assets/img_1754116274270.png",
           "enabled": true
         },
         {
