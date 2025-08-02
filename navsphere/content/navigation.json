@@ -128,6 +128,14 @@
           "description": "",
           "icon": "/assets/img_1754142041768.png",
           "enabled": true
+        },
+        {
+          "id": "1754142355154",
+          "title": "家园",
+          "href": "https://hdhome.org/",
+          "description": "",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
