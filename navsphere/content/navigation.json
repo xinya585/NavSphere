@@ -192,6 +192,14 @@
           "description": "",
           "icon": "/assets/img_1754153813213.png",
           "enabled": true
+        },
+        {
+          "id": "1754153848943",
+          "title": "ZmPT",
+          "href": "https://zmpt.cc",
+          "description": "",
+          "icon": "/assets/img_1754153854768.png",
+          "enabled": true
         }
       ],
       "subCategories": []
