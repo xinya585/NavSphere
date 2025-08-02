@@ -10,7 +10,7 @@
           "title": "UNRAID",
           "href": "http://scy.ink:9999",
           "description": "适合个人/小微企业搭建私有云存储、虚拟化服务器或流媒体服务器，尤其推荐对存储扩展性和硬件兼容性有高要求的用户。",
-          "icon": "http://scy.ink:3300/configData/icon/0_a/Unraid_D.png",
+          "icon": "/assets/img_1754116458521.png",
           "enabled": true
         },
         {
