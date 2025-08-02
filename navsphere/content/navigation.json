@@ -96,6 +96,14 @@
           "description": "webdl",
           "icon": "/assets/img_1754134361577.png",
           "enabled": true
+        },
+        {
+          "id": "1754134401854",
+          "title": "憨憨",
+          "href": "https://hhanclub.top/",
+          "description": "webdl",
+          "icon": "/assets/img_1754134416320.png",
+          "enabled": true
         }
       ],
       "subCategories": []
