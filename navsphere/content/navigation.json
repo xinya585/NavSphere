@@ -2,7 +2,7 @@
   "navigationItems": [
     {
       "id": "1",
-      "title": "UNRAID",
+      "title": "NAS菜单",
       "icon": "LayoutList",
       "items": [
         {
