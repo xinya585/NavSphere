@@ -176,6 +176,14 @@
           "description": "",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1754142758205",
+          "title": "MTeam",
+          "href": "https://next.m-team.cc/",
+          "description": "",
+          "icon": "/assets/img_1754142781462.png",
+          "enabled": true
         }
       ],
       "subCategories": []
