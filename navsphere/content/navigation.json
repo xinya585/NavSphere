@@ -216,6 +216,14 @@
           "description": "",
           "icon": "/assets/img_1754153922697.png",
           "enabled": true
+        },
+        {
+          "id": "1754153944681",
+          "title": "LemonHD",
+          "href": "https://lemonhd.club",
+          "description": "",
+          "icon": "/assets/img_1754153954554.png",
+          "enabled": true
         }
       ],
       "subCategories": []
