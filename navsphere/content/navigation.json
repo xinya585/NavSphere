@@ -218,6 +218,14 @@
           "description": "最好用的网站托管服务。",
           "icon": "/assets/img_1754144168371.png",
           "enabled": true
+        },
+        {
+          "id": "1754145231786",
+          "title": "IT-Tools",
+          "href": "http://scy.ink:8364/",
+          "description": "为开发人员提供方便的在线工具集合，具有出色的用户体验。",
+          "icon": "/assets/img_1754145262770.png",
+          "enabled": true
         }
       ],
       "subCategories": []
