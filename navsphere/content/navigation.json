@@ -31,10 +31,10 @@
         },
         {
           "id": "1_4",
-          "title": "Google AdSense",
-          "href": "https://www.google.com/adsense/",
-          "description": "Google AdSense广告服务。",
-          "icon": "/assets/images/logos/gads.ico",
+          "title": "Media Saber",
+          "href": "http://scy.ink:4000",
+          "description": "由多位热心Pter共同努力，立足于开发自用，完全自主开发，做一款全新、高效、稳定、快速、方便好用、功能强大的媒体管理工具！",
+          "icon": "/assets/img_1754137345876.png",
           "enabled": true
         },
         {
