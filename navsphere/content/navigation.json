@@ -36,6 +36,14 @@
           "description": "由多位热心Pter共同努力，立足于开发自用，完全自主开发，做一款全新、高效、稳定、快速、方便好用、功能强大的媒体管理工具！",
           "icon": "/assets/img_1754137345876.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754137567638_j9x13sn9d",
+          "title": "CookieCloud",
+          "href": "http://scy.ink:8088",
+          "description": "Cookie同步工具",
+          "icon": "/assets/img_1754137546589.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
