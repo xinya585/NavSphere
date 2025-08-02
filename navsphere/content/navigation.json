@@ -92,9 +92,9 @@
     },
     {
       "id": "1754134255538",
-      "title": "PT收藏夹",
+      "title": "PT站",
       "icon": "LayoutList",
-      "description": "PT站点快速访问",
+      "description": "",
       "enabled": true,
       "items": [
         {
