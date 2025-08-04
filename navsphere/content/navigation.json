@@ -268,6 +268,14 @@
       "enabled": true,
       "items": [
         {
+          "id": "1754321575419",
+          "title": "Cloudflare",
+          "href": "https://dash.cloudflare.com",
+          "description": "",
+          "icon": "/assets/img_1754321595761.png",
+          "enabled": true
+        },
+        {
           "id": "1754143664442",
           "title": "Github",
           "href": "https://git.scy.ink",
@@ -313,14 +321,6 @@
           "href": "https://xn--mes358aby2apfg.com/#/register?code=mxxRp93b",
           "description": "100G流量，1.5元。",
           "icon": "/assets/img_1754145574048.png",
-          "enabled": true
-        },
-        {
-          "id": "1754321575419",
-          "title": "Cloudflare",
-          "href": "https://dash.cloudflare.com",
-          "description": "",
-          "icon": "/assets/img_1754321595761.png",
           "enabled": true
         }
       ],
