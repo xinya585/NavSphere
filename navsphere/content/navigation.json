@@ -256,6 +256,14 @@
           "description": "",
           "icon": "/assets/img_1754154037895.png",
           "enabled": true
+        },
+        {
+          "id": "1754578249713",
+          "title": "OpenCD",
+          "href": "https://open.cd/",
+          "description": "",
+          "icon": "/assets/img_1754578277265.png",
+          "enabled": true
         }
       ],
       "subCategories": []
