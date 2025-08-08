@@ -356,6 +356,14 @@
           "description": "节点类型转换。",
           "icon": "/assets/img_1754626229343.png",
           "enabled": true
+        },
+        {
+          "id": "1754626252949",
+          "title": "ACL4SSR在线订阅转换",
+          "href": "https://acl4ssr-sub.github.io/",
+          "description": "节点类型转换",
+          "icon": "/assets/img_1754626272109.png",
+          "enabled": true
         }
       ],
       "subCategories": []
