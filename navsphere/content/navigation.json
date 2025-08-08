@@ -333,6 +333,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1754625971892",
+      "title": "clash",
+      "icon": "LayoutList",
+      "description": "科学上网机场以及工具",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
