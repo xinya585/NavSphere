@@ -340,6 +340,14 @@
           "description": "1T流量，10元每月。",
           "icon": "/assets/img_1754626055699.png",
           "enabled": true
+        },
+        {
+          "id": "1754626151436",
+          "title": "IKUUU",
+          "href": "https://ikuuu.de/",
+          "description": "每月免费50G流量，每日可签到获取流量。",
+          "icon": "/assets/img_1754626157740.png",
+          "enabled": true
         }
       ],
       "subCategories": []
