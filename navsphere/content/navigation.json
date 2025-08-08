@@ -322,14 +322,6 @@
           "description": "1T流量，10元每月。",
           "icon": "/assets/img_1754145419452.png",
           "enabled": true
-        },
-        {
-          "id": "1754145561813",
-          "title": "赔钱机场",
-          "href": "https://xn--mes358aby2apfg.com/#/register?code=mxxRp93b",
-          "description": "100G流量，1.5元。",
-          "icon": "/assets/img_1754145574048.png",
-          "enabled": true
         }
       ],
       "subCategories": []
@@ -340,7 +332,16 @@
       "icon": "LayoutList",
       "description": "科学上网机场以及工具",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1754145561813",
+          "title": "赔钱机场",
+          "href": "https://xn--mes358aby2apfg.com/#/register?code=mxxRp93b",
+          "description": "100G流量，1.5元。",
+          "icon": "/assets/img_1754145574048.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
