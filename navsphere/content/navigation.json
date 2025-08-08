@@ -348,6 +348,14 @@
           "description": "每月免费50G流量，每日可签到获取流量。",
           "icon": "/assets/img_1754626157740.png",
           "enabled": true
+        },
+        {
+          "id": "1754626211326",
+          "title": "边缘@订阅转换API",
+          "href": "https://bianyuan.xyz/",
+          "description": "节点类型转换。",
+          "icon": "/assets/img_1754626229343.png",
+          "enabled": true
         }
       ],
       "subCategories": []
